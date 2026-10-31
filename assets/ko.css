@@ -1,0 +1,9 @@
+html { font-family: serif; }
+body { line-height: 1.8; word-break: keep-all; overflow-wrap: break-word; margin: 0 1em; }
+h1, h2, h3 { line-height: 1.4; page-break-after: avoid; }
+h1 { page-break-before: always; font-size: 1.5em; margin: 1.2em 0 0.8em; }
+p { margin: 0 0 0.8em; text-align: left; }
+img { max-width: 100%; height: auto; }
+blockquote { margin: 1em 1.5em; padding-left: 0.8em; border-left: 3px solid #999; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #bbb; padding: 0.3em 0.5em; }
